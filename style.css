@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: lightgreen;
+}
+
+#outerDiv{
+    background-color: pink;
+    padding: 20px;
+}
+
+#midDiv{
+    background-color: red;
+    padding: 20px;
+}
+
+#innerDiv{
+    background-color: blue;
+    padding: 20px;
+}
